@@ -7,7 +7,7 @@
   - [Ensemble Techniques](https://github.com/manyaobi1991/unsupervised-learning)
   - [Model Tuning](https://github.com/manyaobi1991/unsupervised-learning)
 
-<h2>🎓 Trainings </h2>
+<h2>🎓 Skills </h2>
 
 - <b>Data science and Business analytics</b>
 - <b>MLOps</b>
